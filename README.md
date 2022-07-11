@@ -48,10 +48,20 @@ This repository lists some awesome face detection and recognition projects.
 
   - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux. 
 
-  - [InsightFace](https://github.com/deepinsight/insightface) <img src="https://img.shields.io/github/stars/deepinsight/insightface?style=social"/> : State-of-the-art 2D and 3D Face Analysis Project. 
+  - [InsightFace](https://github.com/deepinsight/insightface) <img src="https://img.shields.io/github/stars/deepinsight/insightface?style=social"/> : State-of-the-art 2D and 3D Face Analysis Project. "Arcface: Additive angular margin loss for deep face recognition". (**[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.html)**).
 
   - [serengil/deepface](https://github.com/serengil/deepface) <img src="https://img.shields.io/github/stars/serengil/deepface?style=social"/> : A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python.
 
   - [ZhaoJ9014/face.evoLVe](https://github.com/ZhaoJ9014/face.evoLVe) <img src="https://img.shields.io/github/stars/ZhaoJ9014/face.evoLVe?style=social"/> : 🔥🔥High-Performance Face Recognition Library on PaddlePaddle & PyTorch🔥🔥.
 
   - [hpc203/10kinds-light-face-detector-align-recognition](https://github.com/hpc203/10kinds-light-face-detector-align-recognition) <img src="https://img.shields.io/github/stars/hpc203/10kinds-light-face-detector-align-recognition?style=social"/> : 10种轻量级人脸检测算法的比拼，其中还包含人脸关键点检测与对齐，人脸特征向量提取和计算距离相似度。
+
+  - [DeepID2]: "FaceNet: A Unified Embedding for Face Recognition and Clustering". (**[NIPS 2014](https://proceedings.neurips.cc/paper/2014/hash/e5e63da79fcd2bebbd7cb8bf1c1d0274-Abstract.html)**)
+
+  - [FaceNet](https://github.com/davidsandberg/facenet) <img src="https://img.shields.io/github/stars/davidsandberg/facenet?style=social"/> : "Deep learning face representation by joint identification-verification". (**[CVPR 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html)**)
+
+  - [SphereFace](https://github.com/wy1iu/sphereface) <img src="https://img.shields.io/github/stars/wy1iu/sphereface?style=social"/> : "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**).
+
+  - [OpenSphere](https://github.com/ydwen/opensphere) <img src="https://img.shields.io/github/stars/ydwen/opensphere?style=social"/> : OpenSphere is a hyperspherical face recognition library based on PyTorch. "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**). "SphereFace2: Binary Classification is All You Need for Deep Face Recognition". (**[ICLR 2022](https://wyliu.com/papers/sphereface2_ICLR22.pdf)**). "SphereFace Revived: Unifying Hyperspherical Face Recognition". (**[TPAMI 2022](https://wyliu.com/papers/spherefacer_v3_TPAMI.pdf)**). 
+
+  - [CosFace]: "CosFace: Large Margin Cosine Loss for Deep Face Recognition". (**[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Wang_CosFace_Large_Margin_CVPR_2018_paper.html)**)
