@@ -13,6 +13,10 @@ This repository lists some awesome face detection and recognition projects.
 
   - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) <img src="https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition?style=social"/> : papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval. 
 
+  - [becauseofAI/awesome-face](https://github.com/becauseofAI/awesome-face) <img src="https://img.shields.io/github/stars/becauseofAI/awesome-face?style=social"/> : An awesome face technology repository. 
+
+  - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) <img src="https://img.shields.io/github/stars/polarisZhao/awesome-face?style=social"/> : 😎 face releated algorithm, dataset and paper. 
+
 
 ## Face Detection
 
