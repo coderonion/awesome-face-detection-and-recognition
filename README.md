@@ -69,3 +69,5 @@
   - [OpenSphere](https://github.com/ydwen/opensphere) <img src="https://img.shields.io/github/stars/ydwen/opensphere?style=social"/> : OpenSphere is a hyperspherical face recognition library based on PyTorch. "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**). "SphereFace2: Binary Classification is All You Need for Deep Face Recognition". (**[ICLR 2022](https://wyliu.com/papers/sphereface2_ICLR22.pdf)**). "SphereFace Revived: Unifying Hyperspherical Face Recognition". (**[TPAMI 2022](https://wyliu.com/papers/spherefacer_v3_TPAMI.pdf)**). 
 
   - [CosFace]: "CosFace: Large Margin Cosine Loss for Deep Face Recognition". (**[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Wang_CosFace_Large_Margin_CVPR_2018_paper.html)**)
+
+  - [coneypo/Dlib_face_recognition_from_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) <img src="https://img.shields.io/github/stars/coneypo/Dlib_face_recognition_from_camera?style=social"/> : Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别。
