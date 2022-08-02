@@ -5,17 +5,19 @@
 
 ## Contents
 - [Awesome-Face-Detection-and-Recognition](#awesome-face-detection-and-recognition)
-    - [Review](#review)
+    - [Summary](#summary)
     - [Face Detection](#face-detection)
     - [Face Recognition](#face-Recognition)
+    - [Datasets](#datasets)
 
-## Review
+## Summary
 
   - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) <img src="https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition?style=social"/> : papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval. 
 
   - [becauseofAI/awesome-face](https://github.com/becauseofAI/awesome-face) <img src="https://img.shields.io/github/stars/becauseofAI/awesome-face?style=social"/> : An awesome face technology repository. 
 
   - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) <img src="https://img.shields.io/github/stars/polarisZhao/awesome-face?style=social"/> : 😎 face releated algorithm, dataset and paper. 
+
 
 
 ## Face Detection
@@ -71,3 +73,12 @@
   - [CosFace]: "CosFace: Large Margin Cosine Loss for Deep Face Recognition". (**[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Wang_CosFace_Large_Margin_CVPR_2018_paper.html)**)
 
   - [coneypo/Dlib_face_recognition_from_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) <img src="https://img.shields.io/github/stars/coneypo/Dlib_face_recognition_from_camera?style=social"/> : Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别。
+
+
+## Datasets
+
+  - [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) : "WIDER FACE: A Face Detection Benchmark". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)**)
+
+  - [UFDD](https://ufdd.info/) : Unconstrained Face Detection Dataset(UFDD). "Pushing the Limits of Unconstrained Face Detection: a Challenge Dataset and Baseline Results". (**[IEEE BTAS 2018](https://ieeexplore.ieee.org/abstract/document/8698561l)**)
+
+  - [LFW](http://vis-www.cs.umass.edu/lfw/) : Labeled Faces in the Wild(LFW). "Labeled Faces in the Wild: A Database forStudying Face Recognition in Unconstrained Environments". (**[Workshop on faces in'Real-Life'Images: detection, alignment, and recognition. 2008](https://hal.inria.fr/inria-00321923/)**)
