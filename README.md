@@ -7,8 +7,10 @@
 - [Awesome-Face-Detection-and-Recognition](#awesome-face-detection-and-recognition)
     - [Summary](#summary)
     - [Face Detection](#face-detection)
-    - [Face Recognition](#face-Recognition)
+    - [Face Recognition](#face-recognition)
     - [Datasets](#datasets)
+      - [Face Detection Datasets](#face-detection-datasets)
+      - [Face Recognition Datasets](#face-recognition-datasets)
 
 ## Summary
 
@@ -21,6 +23,8 @@
 
 
 ## Face Detection
+
+  - Viola-Jones : "Robust Real-Time Face Detection". (**[IJCV 2004](https://link.springer.com/article/10.1023/B:VISI.0000013087.49260.fb)**)
 
   - [OAID/TengineKit](https://github.com/OAID/TengineKit) <img src="https://img.shields.io/github/stars/OAID/TengineKit?style=social"/> : TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks & Iris Landmarks & Yolov5 SDK On Mobile. 
 
@@ -77,8 +81,13 @@
 
 ## Datasets
 
-  - [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) : "WIDER FACE: A Face Detection Benchmark". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)**)
+  - ### Face Detection Datasets
 
-  - [UFDD](https://ufdd.info/) : Unconstrained Face Detection Dataset(UFDD). "Pushing the Limits of Unconstrained Face Detection: a Challenge Dataset and Baseline Results". (**[IEEE BTAS 2018](https://ieeexplore.ieee.org/abstract/document/8698561l)**)
+    - [WIDER FACE](http://shuoyang1213.me/WIDERFACE/) : "WIDER FACE: A Face Detection Benchmark". (**[CVPR 2016](https://openaccess.thecvf.com/content_cvpr_2016/html/Yang_WIDER_FACE_A_CVPR_2016_paper.html)**)
 
-  - [LFW](http://vis-www.cs.umass.edu/lfw/) : Labeled Faces in the Wild(LFW). "Labeled Faces in the Wild: A Database forStudying Face Recognition in Unconstrained Environments". (**[Workshop on faces in'Real-Life'Images: detection, alignment, and recognition. 2008](https://hal.inria.fr/inria-00321923/)**)
+
+  - ### Face Recognition Datasets
+
+    - [UFDD](https://ufdd.info/) : Unconstrained Face Detection Dataset(UFDD). "Pushing the Limits of Unconstrained Face Detection: a Challenge Dataset and Baseline Results". (**[IEEE BTAS 2018](https://ieeexplore.ieee.org/abstract/document/8698561l)**)
+
+    - [LFW](http://vis-www.cs.umass.edu/lfw/) : Labeled Faces in the Wild(LFW). "Labeled Faces in the Wild: A Database forStudying Face Recognition in Unconstrained Environments". (**[Workshop on faces in'Real-Life'Images: detection, alignment, and recognition. 2008](https://hal.inria.fr/inria-00321923/)**)
