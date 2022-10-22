@@ -16,6 +16,8 @@
 
   - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) <img src="https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition?style=social"/> : papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval. 
 
+  - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) <img src="https://img.shields.io/github/stars/ageitgey/face_recognition?style=social"/> : The world's simplest facial recognition api for Python and the command line. 
+  
   - [becauseofAI/awesome-face](https://github.com/becauseofAI/awesome-face) <img src="https://img.shields.io/github/stars/becauseofAI/awesome-face?style=social"/> : An awesome face technology repository. 
 
   - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) <img src="https://img.shields.io/github/stars/polarisZhao/awesome-face?style=social"/> : 😎 face releated algorithm, dataset and paper. 
@@ -34,7 +36,7 @@
 
   - [YOLO5Face](https://github.com/deepcam-cn/yolov5-face) <img src="https://img.shields.io/github/stars/deepcam-cn/yolov5-face?style=social"/> : "YOLO5Face: Why Reinventing a Face Detector". (**[arXiv 2021](https://arxiv.org/abs/2105.12931)**)
 
-  - [YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) <img src="https://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2?style=social"/> : "YOLO-FaceV2: A Scale and Occlusion Aware Face Detector". (**[arXiv 2022](https://arxiv.org/abs/2208.02019)**)
+  - [YOLO-FaceV2](https://github.com/Krasjet-Yu/YOLO-FaceV2) <img src="https://img.shields.io/github/stars/Krasjet-Yu/YOLO-FaceV2?style=social"/> : "YOLO-FaceV2: A Scale and Occlusion Aware Face Detector ". (**[arXiv 2022](https://arxiv.org/abs/2208.02019)**). "微信公众号「江大白」《[超越Yolo5-Face，Yolo-Facev2开源，各类Trick优化，值得学习！](https://mp.weixin.qq.com/s?__biz=Mzg5NzgyNTU2Mg==&mid=2247498561&idx=1&sn=b7ff0592644ab6bc5b716e07294e1c0a&source=41#wechat_redirect)》"
 
   - [OAID/TengineKit](https://github.com/OAID/TengineKit) <img src="https://img.shields.io/github/stars/OAID/TengineKit?style=social"/> : TengineKit - Free, Fast, Easy, Real-Time Face Detection & Face Landmarks & Face Attributes & Hand Detection & Hand Landmarks & Body Detection & Body Landmarks & Iris Landmarks & Yolov5 SDK On Mobile. 
 
@@ -80,7 +82,6 @@
 
   - [OpenSphere](https://github.com/ydwen/opensphere) <img src="https://img.shields.io/github/stars/ydwen/opensphere?style=social"/> : OpenSphere is a hyperspherical face recognition library based on PyTorch. "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**). "SphereFace2: Binary Classification is All You Need for Deep Face Recognition". (**[ICLR 2022](https://wyliu.com/papers/sphereface2_ICLR22.pdf)**). "SphereFace Revived: Unifying Hyperspherical Face Recognition". (**[TPAMI 2022](https://wyliu.com/papers/spherefacer_v3_TPAMI.pdf)**). 
 
- - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) <img src="https://img.shields.io/github/stars/ageitgey/face_recognition?style=social"/> : The world's simplest facial recognition api for Python and the command line. 
 
   - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux. 
 
@@ -91,6 +92,8 @@
   - [hpc203/10kinds-light-face-detector-align-recognition](https://github.com/hpc203/10kinds-light-face-detector-align-recognition) <img src="https://img.shields.io/github/stars/hpc203/10kinds-light-face-detector-align-recognition?style=social"/> : 10种轻量级人脸检测算法的比拼，其中还包含人脸关键点检测与对齐，人脸特征向量提取和计算距离相似度。
 
   - [coneypo/Dlib_face_recognition_from_camera](https://github.com/coneypo/Dlib_face_recognition_from_camera) <img src="https://img.shields.io/github/stars/coneypo/Dlib_face_recognition_from_camera?style=social"/> : Detect and recognize the faces from camera / 调用摄像头进行人脸识别，支持多张人脸同时识别。
+
+  - [zhouyuchong/face-recognition-deepstream](https://github.com/zhouyuchong/face-recognition-deepstream) <img src="https://img.shields.io/github/stars/zhouyuchong/face-recognition-deepstream?style=social"/> : Deepstream app use YOLO, retinaface and arcface for face recognition. 
 
   - [ColinFred/yolov5_arcface_face_recognition](https://github.com/ColinFred/yolov5_arcface_face_recognition) <img src="https://img.shields.io/github/stars/ColinFred/yolov5_arcface_face_recognition?style=social"/> : 利用Yolov5做人脸检测，框出识别到的人脸，用 ArcFace 做人脸识别。 (**[Yolov5 + ArcFace 人脸识别](https://blog.csdn.net/windowsyun/article/details/123607549)**)
 
