@@ -60,6 +60,7 @@
 
   - [zdfb/Yolov5_face](https://github.com/zdfb/Yolov5_face) <img src="https://img.shields.io/github/stars/zdfb/Yolov5_face?style=social"/> : 基于pytorch的Yolov5人脸检测。
 
+  - [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) <img src="https://img.shields.io/github/stars/derronqi/yolov7-face?style=social"/> : yolov7 face detection with landmark.
 
 
 
