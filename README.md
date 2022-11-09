@@ -83,8 +83,9 @@
 
   - [OpenSphere](https://github.com/ydwen/opensphere) <img src="https://img.shields.io/github/stars/ydwen/opensphere?style=social"/> : OpenSphere is a hyperspherical face recognition library based on PyTorch. "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**). "SphereFace2: Binary Classification is All You Need for Deep Face Recognition". (**[ICLR 2022](https://wyliu.com/papers/sphereface2_ICLR22.pdf)**). "SphereFace Revived: Unifying Hyperspherical Face Recognition". (**[TPAMI 2022](https://wyliu.com/papers/spherefacer_v3_TPAMI.pdf)**). 
 
-
   - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux. 
+
+  - [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) <img src="https://img.shields.io/github/stars/ViewFaceCore/ViewFaceCore?style=social"/> : C# 超简单的离线人脸识别库。( 基于 SeetaFace6 ) 
 
   - [serengil/deepface](https://github.com/serengil/deepface) <img src="https://img.shields.io/github/stars/serengil/deepface?style=social"/> : A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python.
 
