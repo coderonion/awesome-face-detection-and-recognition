@@ -16,9 +16,11 @@
 
   - [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) <img src="https://img.shields.io/github/stars/ChanChiChoi/awesome-Face_Recognition?style=social"/> : papers about Face Detection; Face Alignment; Face Recognition && Face Identification && Face Verification && Face Representation; Face Reconstruction; Face Tracking; Face Super-Resolution && Face Deblurring; Face Generation && Face Synthesis; Face Transfer; Face Anti-Spoofing; Face Retrieval. 
 
-  - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) <img src="https://img.shields.io/github/stars/ageitgey/face_recognition?style=social"/> : The world's simplest facial recognition api for Python and the command line. 
-  
   - [becauseofAI/awesome-face](https://github.com/becauseofAI/awesome-face) <img src="https://img.shields.io/github/stars/becauseofAI/awesome-face?style=social"/> : An awesome face technology repository. 
+
+  - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) <img src="https://img.shields.io/github/stars/ageitgey/face_recognition?style=social"/> : The world's simplest facial recognition api for Python and the command line. 
+
+  - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux. 
 
   - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) <img src="https://img.shields.io/github/stars/polarisZhao/awesome-face?style=social"/> : 😎 face releated algorithm, dataset and paper. 
 
@@ -63,27 +65,25 @@
   - [derronqi/yolov7-face](https://github.com/derronqi/yolov7-face) <img src="https://img.shields.io/github/stars/derronqi/yolov7-face?style=social"/> : yolov7 face detection with landmark.
 
 
-
-
-
-
 ## Face Recognition
 
   - [DeepFace] : "DeepFace: Closing the Gap to Human-Level Performance in Face Verification". (**[CVPR 2014](https://openaccess.thecvf.com/content_cvpr_2014/html/Taigman_DeepFace_Closing_the_2014_CVPR_paper.html)**)
 
   - [DeepID2]: "FaceNet: A Unified Embedding for Face Recognition and Clustering". (**[NIPS 2014](https://proceedings.neurips.cc/paper/2014/hash/e5e63da79fcd2bebbd7cb8bf1c1d0274-Abstract.html)**)
 
-  - [FaceNet](https://github.com/davidsandberg/facenet) <img src="https://img.shields.io/github/stars/davidsandberg/facenet?style=social"/> : "Deep learning face representation by joint identification-verification". (**[CVPR 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html)**)
+  - [VGGFace](https://www.robots.ox.ac.uk/~vgg/software/vgg_face/): "Deep Face Recognition". (**[British Machine Vision Conference, 2015](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15)**)
 
-  - [SphereFace](https://github.com/wy1iu/sphereface) <img src="https://img.shields.io/github/stars/wy1iu/sphereface?style=social"/> : "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**).
+  - [FaceNet](https://github.com/davidsandberg/facenet) <img src="https://img.shields.io/github/stars/davidsandberg/facenet?style=social"/> : "Deep learning face representation by joint identification-verification". (**[CVPR 2015](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Schroff_FaceNet_A_Unified_2015_CVPR_paper.html)**)
 
   - [CosFace]: "CosFace: Large Margin Cosine Loss for Deep Face Recognition". (**[CVPR 2018](https://openaccess.thecvf.com/content_cvpr_2018/html/Wang_CosFace_Large_Margin_CVPR_2018_paper.html)**)
 
-  - [InsightFace](https://github.com/deepinsight/insightface) <img src="https://img.shields.io/github/stars/deepinsight/insightface?style=social"/> : State-of-the-art 2D and 3D Face Analysis Project. "Arcface: Additive angular margin loss for deep face recognition". (**[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.html)**).
+  - [MobileFaceNets]: "MobileFaceNets: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices". (**[CCBR 2018](https://link.springer.com/chapter/10.1007/978-3-319-97909-0_46)**)
+  
+  - [ArcFace](https://github.com/deepinsight/insightface) <img src="https://img.shields.io/github/stars/deepinsight/insightface?style=social"/> : State-of-the-art 2D and 3D Face Analysis Project. "Arcface: Additive angular margin loss for deep face recognition". (**[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Deng_ArcFace_Additive_Angular_Margin_Loss_for_Deep_Face_Recognition_CVPR_2019_paper.html)**).
+
+  - [SphereFace](https://github.com/wy1iu/sphereface) <img src="https://img.shields.io/github/stars/wy1iu/sphereface?style=social"/> : "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**).
 
   - [OpenSphere](https://github.com/ydwen/opensphere) <img src="https://img.shields.io/github/stars/ydwen/opensphere?style=social"/> : OpenSphere is a hyperspherical face recognition library based on PyTorch. "SphereFace: Deep Hypersphere Embedding for Face Recognition". (**[CVPR 2017](https://openaccess.thecvf.com/content_cvpr_2017/html/Liu_SphereFace_Deep_Hypersphere_CVPR_2017_paper.html)**). "SphereFace2: Binary Classification is All You Need for Deep Face Recognition". (**[ICLR 2022](https://wyliu.com/papers/sphereface2_ICLR22.pdf)**). "SphereFace Revived: Unifying Hyperspherical Face Recognition". (**[TPAMI 2022](https://wyliu.com/papers/spherefacer_v3_TPAMI.pdf)**). 
-
-  - [takuya-takeuchi/FaceRecognitionDotNet](https://github.com/takuya-takeuchi/FaceRecognitionDotNet) <img src="https://img.shields.io/github/stars/takuya-takeuchi/FaceRecognitionDotNet?style=social"/> : The world's simplest facial recognition api for .NET on Windows, MacOS and Linux. 
 
   - [ViewFaceCore/ViewFaceCore](https://github.com/ViewFaceCore/ViewFaceCore) <img src="https://img.shields.io/github/stars/ViewFaceCore/ViewFaceCore?style=social"/> : C# 超简单的离线人脸识别库。( 基于 SeetaFace6 ) 
 
