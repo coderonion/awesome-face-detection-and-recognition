@@ -34,6 +34,12 @@
 
   - [FaceBoxes](https://github.com/sfzhang15/FaceBoxes) <img src="https://img.shields.io/github/stars/sfzhang15/FaceBoxes?style=social"/> : "FaceBoxes: A CPU real-time face detector with high accuracy". (**[IJCB, 2017](https://ieeexplore.ieee.org/abstract/document/8272675)**)
 
+  - [DSFD](https://github.com/Tencent/FaceDetection-DSFD) <img src="https://img.shields.io/github/stars/biubug6/Pytorch_Retinaface?style=social"/> : "DSFD: Dual Shot Face Detector". (**[CVPR 2019](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_DSFD_Dual_Shot_Face_Detector_CVPR_2019_paper.html)**)
+
+  - [RetinaFace](https://github.com/biubug6/Pytorch_Retinaface) <img src="https://img.shields.io/github/stars/biubug6/Pytorch_Retinaface?style=social"/> : "RetinaFace: Single-Shot Multi-Level Face Localisation in the Wild". (**[CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html)**)
+
+  - [hukkelas/DSFD-Pytorch-Inference](https://github.com/hukkelas/DSFD-Pytorch-Inference) <img src="https://img.shields.io/github/stars/hukkelas/DSFD-Pytorch-Inference?style=social"/> : State of the Art Face Detection in Pytorch with DSFD and RetinaFace.
+
   - [SCRFD](https://github.com/deepinsight/insightface/tree/master/detection/scrfd) <img src="https://img.shields.io/github/stars/deepinsight/insightface?style=social"/> : "Sample and Computation Redistribution for Efficient Face Detection". (**[arXiv 2021](https://arxiv.org/abs/2105.04714)**)
 
   - [YOLO5Face](https://github.com/deepcam-cn/yolov5-face) <img src="https://img.shields.io/github/stars/deepcam-cn/yolov5-face?style=social"/> : "YOLO5Face: Why Reinventing a Face Detector". (**[arXiv 2021](https://arxiv.org/abs/2105.12931)**)
