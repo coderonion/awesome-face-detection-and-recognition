@@ -24,6 +24,8 @@
 
   - [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) <img src="https://img.shields.io/github/stars/polarisZhao/awesome-face?style=social"/> : 😎 face releated algorithm, dataset and paper. 
 
+  - [clpeng/Awesome-Face-Forgery-Generation-and-Detectione](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detectione) <img src="https://img.shields.io/github/stars/clpeng/Awesome-Face-Forgery-Generation-and-Detectione?style=social"/> : A curated list of articles and codes related to face forgery generation and detection.
+
 
 
 ## Face Detection
