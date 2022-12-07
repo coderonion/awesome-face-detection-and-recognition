@@ -107,7 +107,7 @@
 
   - [ColinFred/yolov5_arcface_face_recognition](https://github.com/ColinFred/yolov5_arcface_face_recognition) <img src="https://img.shields.io/github/stars/ColinFred/yolov5_arcface_face_recognition?style=social"/> : 利用Yolov5做人脸检测，框出识别到的人脸，用 ArcFace 做人脸识别。 (**[Yolov5 + ArcFace 人脸识别](https://blog.csdn.net/windowsyun/article/details/123607549)**)
 
-
+  - [mesutpiskin/face-detection-and-recognition](https://github.com/mesutpiskin/face-detection-and-recognition) <img src="https://img.shields.io/github/stars/mesutpiskin/face-detection-and-recognition?style=social"/> : C# Face detection and recognition with EmguCV. Eigenfaces, Fisherfaces and LBPH algorithms.
 
 
 ## Datasets
